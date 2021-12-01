@@ -1,5 +1,5 @@
 - 👋 Hi, my name is Joe Wasuruj. I'm based in Sydney, Australia.
-- 👀 I’m interested in cloud services and infrastructures.
+- 👀 I’m passionate about cloud services and infrastructures.
 - 🌱 I’m in the final year of my cloud computing degree.
 - 💞️ I love kayaking, bush walking and learning languages.
 - 📫 You can reach me @joe-wasuruj.
